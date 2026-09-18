@@ -203,11 +203,11 @@ Para regularizar y/o promocionar la asignatura se requiere:
 
 ## 📚 Bibliografía y Recursos de Consulta
 
-### Bibliografía Abierta en Español
-- **González Duque, R.** *Python para todos.* [Descarga comunitaria en PDF](https://archive.org/download/2010PythonParaTodos/2010_python-para-todos.pdf)
-- **Severance, C.** *Python para todos: explorando la información con Python 3.* [Libro web interactivo (py4e)](https://es.py4e.com/book)
-- **Delgado Quintero, S.** *Aprende Python.* [Plataforma interactiva en línea](https://aprendepython.es)
-- *Python Intermedio (traducción al español).* [Documentación en línea](https://python-intermedio.readthedocs.io/es/latest/)
+### Bibliografía Abierta en Español (Disponible en el Repositorio)
+- **González Duque, R.** *Python para todos.* — 📄 [Descarga directa en este repositorio (PDF)](Bibliografia/2010_python-para-todos.pdf) | [Enlace alternativo (Internet Archive)](https://archive.org/download/2010PythonParaTodos/2010_python-para-todos.pdf)
+- *Python Intermedio (traducción al español).* — 📄 [Descarga directa en este repositorio (PDF)](Bibliografia/python-intermedio-readthedocs-io-es-latest.pdf) | [Documentación en línea](https://python-intermedio.readthedocs.io/es/latest/)
+- **Severance, C.** *Python para todos: explorando la información con Python 3.* — [Libro web interactivo (py4e)](https://es.py4e.com/book)
+- **Delgado Quintero, S.** *Aprende Python.* — [Plataforma interactiva en línea](https://aprendepython.es)
 
 ### Bibliografía Complementaria
 - **Sweigart, A. (2019).** *Automate the Boring Stuff with Python* (2.ª ed.). No Starch Press. [Lectura libre en línea](https://automatetheboringstuff.com)

@@ -8,6 +8,8 @@
 *.xlsx
 *.csv
 !Codigos/**
+!Bibliografia/
+!Bibliografia/**
 
 # 2. Archivos temporales, scripts de build y backups locales
 *.bak*
@@ -40,7 +42,6 @@ Desktop.ini
 .DS_Store
 
 # 5. Carpetas de trabajo docente y borradores locales
-Bibliografia/
 data_clases/
 Estadistica/
 Generador presentaciones/
