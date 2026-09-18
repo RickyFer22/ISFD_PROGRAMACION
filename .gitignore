@@ -1,0 +1,52 @@
+# ==============================================================================
+# .gitignore - Repositorio Oficial TSDS Programación
+# ==============================================================================
+
+# 1. Documentos institucionales, administrativos y PDFs (PROHIBIDO SUBIR AL REPO)
+*.pdf
+*.docx
+*.xlsx
+*.csv
+!Codigos/**
+
+# 2. Archivos temporales, scripts de build y backups locales
+*.bak*
+*.tmp
+*.log
+_respaldo_presentaciones/
+VERSIONES/
+pdf_text_dump.txt
+export_visual_audit.py
+test_image_slide.js
+test_new_engine.js
+gen_ppts.js*
+*.tex
+
+# 3. Datos privados, asistencia y planillas
+ASISTENCIA*
+HORARIOS.*
+
+# 4. Dependencias y entornos de desarrollo
+node_modules/
+package-lock.json
+package.json
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 5. Carpetas de trabajo docente y borradores locales
+Bibliografia/
+data_clases/
+Estadistica/
+Generador presentaciones/
+juego de cartas/
+Presentaciones V2/
+Sorteador/
+assets_pptx/
+logo isfd .png
+logo tsds.png

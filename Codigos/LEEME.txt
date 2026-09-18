@@ -1,0 +1,49 @@
+CÓDIGOS DE LAS CLASES - Programación 1er Año
+=============================================
+
+Cada archivo .py es un MINI-APUNTE TEÓRICO EJECUTABLE. Estructura interna:
+
+  1) TEORÍA (bloque de comentarios inicial): los PORQUÉS de fondo.
+     Cómo funciona la memoria, qué hace el intérprete por dentro, por qué
+     Python fue diseñado así, reglas y convenciones profesionales.
+  2) CÓDIGO COMENTADO línea por línea: cada bloque explica por qué está
+     escrito de esa forma y qué pasaría si se escribiera distinto.
+  3) "PREGUNTAS QUE PODRÍAN HACERTE": preguntas típicas de estudiantes
+     (incluidas las trampas clásicas) con la respuesta lista.
+
+Cómo usarlos para preparar la clase:
+  - Leer el bloque de TEORÍA antes de dictar (5 minutos por archivo).
+  - Tener abierto el archivo durante la demo: los comentarios siguen el
+    orden exacto de lo que se proyecta en la presentación.
+  - Repasar la sección de preguntas: cubre las dudas más frecuentes.
+
+Forma de ejecución: abrir con VS Code y ejecutar (botón ▶) o en terminal:
+  python nombre_del_archivo.py
+Los que usan input() piden valores por consola (simular un alumno).
+
+Detalle por archivo:
+  clase02 - print, REPL, cómo funciona el intérprete, por qué comillas
+  clase03 - variables en memoria, tipado dinámico, floats binarios, casting
+  clase04 - patrón E-P-S, formato :.2f vs round, intercambio con tuplas
+  clase05 - expresión vs sentencia, // y %, precedencia, cortocircuito
+  clase06 - método de 4 pasos, trazado (dry-run) con tabla de variables
+  clase07 - por qué indentación, cómo elige rama Python, orden de condiciones
+  clase08 - cobertura de ramas, normalizar entradas, regla del bisiesto
+  clase09 - pre-test, los 3 ingredientes, contador/acumulador/centinela
+  clase10 - patrón menú while True+break, banderas (flags)
+  clase11 - range perezoso, for vs while, ciclos anidados, break/continue
+  clase14 - por qué funciones (reutilizar, abstraer, probar), print vs return
+  clase15 - ámbito/scope LEGB, defaults, una función una responsabilidad
+  clase16 - import y módulos, refactorizar, Git/GitHub: init-add-commit
+  clase17 - cadenas en memoria, índices, inmutabilidad, métodos clave
+  clase18 - normalizar primero, split/join, any() con generadores
+  clase19 - listas en memoria, sort vs sorted, listas por comprensión, copias
+  clase20 - promedio/mediana, listas paralelas frágiles, key de sort
+  clase21 - tabla hash, get() vs [], lista de dicts, álgebra de sets
+  clase24 - qué es una excepción, EAFP vs LBYL, leer tracebacks
+  clase25 - persistencia, modos r/w/a, buffer y with, encoding utf-8
+  clase26 - CSV vs JSON, DictReader, patrón ABM persistente en 3 pasos
+  clase27 - arquitectura en capas, sorted con key, nivel coloquio
+
+Las clases 1, 12, 13, 22, 23, 30, 31 y 32 no llevan código nuevo:
+son presentación, repaso, exámenes, entregas y coloquio (reutilizan estos).
