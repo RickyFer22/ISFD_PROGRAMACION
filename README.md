@@ -19,8 +19,6 @@
 - **Asignatura:** Programación
 - **Ubicación en el Plan de Estudios:** 1.er Año · 2.do Cuatrimestre
 - **Carga Horaria:** 5 horas didácticas semanales
-  - **Miércoles (3 hs):** Teórico - Práctico (conceptos fundamentales, diseño algorítmico y demostraciones en vivo).
-  - **Viernes (2 hs):** Taller de Laboratorio (programación intensiva en máquina, resolución de problemas y acompañamiento guiado).
 - **Profesor:** Fernández, Ricardo Gustavo
 - **Lenguaje Principal y Entorno:** Python 3 (CPython 3.x) + Visual Studio Code + Git & GitHub
 
